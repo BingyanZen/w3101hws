@@ -1,2 +1,7 @@
-# w3101hws
-Javascript @ Columbia
+# Javascript @ Columbia
+## About Me
+Bingyan Hu (@bingyanzen)
+
+CS major { software; web dev; NLP }
+
+
